@@ -46,8 +46,8 @@
 
 @font-face {
 	font-family: "bluecredomatic-iconset";
-	src:url("../../resources/images/icons/baccredomatic-iconset.woff") format("woff"),
-    	url("../../resources/images/icons/baccredomatic-iconset.ttf") format("truetype");
+	src:url("https://rawgit.com/Agustinvega/prueba2/master/baccredomatic-iconset.woff") format("woff"),
+    	url("https://rawgit.com/Agustinvega/prueba2/master/baccredomatic-iconset.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
