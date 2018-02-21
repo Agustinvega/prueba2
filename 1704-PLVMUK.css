@@ -13,10 +13,10 @@
 
 @font-face {
   font-family: 'Graphik';
-  src: url('Graphik-Semibold-Web.eot');
-  src: url('Graphik-Semibold-Web.eot?#iefix') format('embedded-opentype'),
-       url('Graphik-Semibold-Web.woff2') format('woff2'),
-       url('Graphik-Semibold-Web.woff') format('woff');
+  src: url('https://rawgit.com/Agustinvega/prueba2/master/Graphik-Semibold-Web.eot');
+  src: url('https://rawgit.com/Agustinvega/prueba2/master/Graphik-Semibold-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/Agustinvega/prueba2/master/Graphik-Semibold-Web.woff2') format('woff2'),
+       url('https://rawgit.com/Agustinvega/prueba2/master/Graphik-Semibold-Web.woff') format('woff');
   font-weight:  600;
   font-style:   normal;
   font-stretch: normal;
